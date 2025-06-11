@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1146e4d87d22ae41b8bb96114095f6d, type: 3}
+  m_Name: Character
+  m_EditorClassIdentifier: 
+  SheetName: Assets/Data/Data.xlsx
+  WorksheetName: Character
+  dataArray:
+  - id: 10101
+    name: "\uD64D\uB828"
+    title: "\uC5EC\uC2E0 \uB2C8\uCF00"
+    image: Char_01
+    description: "\uB2C8\uCF00"
+  - id: 10102
+    name: "\uB9B4\uB9AC\uBC14\uC774\uC2A4"
+    title: "\uC5EC\uC2E0 \uB2C8\uCF00"
+    image: Char_02
+    description: "\uB2C8\uCF00"
+  - id: 10103
+    name: "\uC2A4\uB178\uC6B0\uD654\uC774\uD2B8"
+    title: "\uC5EC\uC2E0 \uB2C8\uCF00"
+    image: Char_03
+    description: "\uB2C8\uCF00"
+  - id: 10104
+    name: "\uB808\uB4DC \uD6C4\uB4DC"
+    title: "\uC5EC\uC2E0 \uB2C8\uCF00"
+    image: Char_04
+    description: "\uB2C8\uCF00"
+  - id: 10105
+    name: "\uB77C\uD47C\uC824"
+    title: "\uC5EC\uC2E0 \uB2C8\uCF00"
+    image: Char_05
+    description: "\uB2C8\uCF00"

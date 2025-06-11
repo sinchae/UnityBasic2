@@ -9,11 +9,23 @@ using System.Collections;
 public class TestData
 {
   [SerializeField]
-  int id_i;
-  public int ID_I { get {return id_i; } set { this.id_i = value;} }
+  int id;
+  public int ID { get {return id; } set { this.id = value;} }
   
   [SerializeField]
-  string name_s;
-  public string Name_S { get {return name_s; } set { this.name_s = value;} }
+  string bg;
+  public string BG { get {return bg; } set { this.bg = value;} }
+  
+  [SerializeField]
+  int character;
+  public int Character { get {return character; } set { this.character = value;} }
+  
+  [SerializeField]
+  int position;
+  public int Position { get {return position; } set { this.position = value;} }
+  
+  [SerializeField]
+  string dialogue;
+  public string Dialogue { get {return dialogue; } set { this.dialogue = value;} }
   
 }

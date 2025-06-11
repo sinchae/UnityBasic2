@@ -15,5 +15,8 @@ MonoBehaviour:
   SheetName: Assets/Data/Data.xlsx
   WorksheetName: Test
   dataArray:
-  - id_i: 0
-    name_s: bbno
+  - id: 0
+    bg: bbno
+    character: 0
+    position: 0
+    dialogue: 
